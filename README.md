@@ -1,7 +1,10 @@
 # TransSum06
 
 ## Open Source Paradigm Shift 번역
-*
+* create local branch
+
+* clone this repository
+
 
 ### 조원 명단
 * 20111750 변정규(조장)
@@ -9,8 +12,6 @@
 * 20140490 이동규
 * 20165167 이서현
 * 20146824 신형철  
-
-그대는 어디에 있나요
 
 ### 작업 할당
 | 이름 | 페이지 |
