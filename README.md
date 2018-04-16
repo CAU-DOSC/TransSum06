@@ -1,10 +1,9 @@
-you belong to my heart
 # TransSum06
 
 ## Open Source Paradigm Shift 번역
 * create local branch
-
 * clone this repository
+![프로젝트 승인](https://github.com/CAU-DOSC/TransSum06/tree/master/img/mkdir.jpg)
 
 
 ### 조원 명단
@@ -16,6 +15,7 @@ you belong to my heart
 
 ### 작업 할당
 | 이름 | 페이지 |
+|------|------|
 | 변정규 | 0 |
 | 안재홍 | 0 |
 | 이동규 | 0 |
