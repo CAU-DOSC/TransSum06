@@ -43,6 +43,8 @@ Network-enabled collaboration - 네트워크를 통한 협력
 Software customizability - 소프트웨어의 커스텀화
 proprietary software - 사유 소프트웨어
 commodity - 상품
+value chain - 가치 체인
+
 ```
 참고해주세요~
 * 180416 20:41분 변정규 작업 완료
