@@ -36,6 +36,8 @@
 
 ### 특이 사항
 * 여기다 추가해주세요(작업 시작 및 완료, 충돌해결 등 공유할 사항)
+
+대명사 영어로 변환 (회사명 등)
 * 주요 용어 정리합니다
 ``` 주요 용어
 The commoditization of software - 소프트웨어의 상품화
@@ -43,6 +45,12 @@ Network-enabled collaboration - 네트워크를 통한 협력
 Software customizability - 소프트웨어의 커스텀화
 proprietary software - 사유 소프트웨어
 commodity - 상품
+value chain - 가치 체인
+
 ```
 참고해주세요~
-* 20111750 변정규 작업 완료
+### 작업 일지
+* 180416 20:41분 변정규 작업 완료
+* 180417 01:33분 이동규 작업 완료
+* 180418 19:42분 안재홍 작업 완료
+* 180419 00:30분 이서현 작업 완료
