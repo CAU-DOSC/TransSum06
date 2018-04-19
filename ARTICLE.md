@@ -1,7 +1,8 @@
-# FILE TO WORK WITH
+﻿# FILE TO WORK WITH
 ***
-* 20111750 변정규 < p1 ~ p5 >  
-이 글은 저자가 2003년 5월 Warburg-Pincus' annual technology conference에서 했던 연설을 "Perspectives on Free and Open Source Software"라는 책에 싣기 위해 쓰여진 것입니다.
+* 20111750 변정규 < p1 ~ p5 >   
+
+이것은 저자가 2003년 5월 Warburg-Pincus' annual technology conference에서 했던 연설을 "Perspectives on Free and Open Source Software"라는 책에 싣기 위해 쓰여진 글입니다.
 
 1962년, Thomas Kuhn은 그의 저서인 "The Structure of Scientific Revolutions"에서 과학의 발전은 일정한 속도로 이루어지는 것이 아닌 특정기간에 급격히 이루어진다고 하였습니다. 그에 따르면 진정한 과학적인 변화는  '단순히 새로운 사실을 발견하는 것이 아닌 기존 사실과 이론에 대한 재구성 및 재평가가 이루어지게 하는, 한 사람에 의해 하룻밤만에 완성될 수 없는 것'입니다.
 
